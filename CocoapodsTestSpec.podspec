@@ -19,7 +19,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = "http://EXAMPLE/CocoapodsTestSpec"
 
 
-  s.license      = {
+  spec.license      = {
     :type => 'MIT',
     :text => <<-LICENSE
               Do whatever you want!
