@@ -1,0 +1,34 @@
+{
+  "name": "CocoapodsTestSpec",
+  "version": "0.0.1",
+  "summary": "Even shorter than the description",
+  "description": "You could read something interesting here!",
+  "homepage": "http://EXAMPLE/CocoapodsTestSpec",
+  "license": {
+    "type": "MIT",
+    "text": "              Do whatever you want!\n"
+  },
+  "authors": {
+    "Fabian Renner": "rennerfabian@icloud.com"
+  },
+  "platforms": {
+    "ios": "12.0",
+    "osx": "10.13"
+  },
+  "source": {
+    "git": "git@github.com:Fab1n/testSpecs.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "Classes/**/*.swift",
+    "HashHelper/*"
+  ],
+  "dependencies": {
+    "Realm": [
+      "= 10.1.401"
+    ],
+    "RealmSwift": [
+      "= 10.1.401"
+    ]
+  }
+}

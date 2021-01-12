@@ -9,8 +9,4 @@ source 'https://github.com/CocoaPods/Specs.git'
 
 target 'cocoapods-test-spec' do
 
-  pod 'CocoapodsTestSpec', :path => '.'
-  pod 'Realm'
-  pod 'RealmSwift'
-
 end

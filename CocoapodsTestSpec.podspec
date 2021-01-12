@@ -36,7 +36,7 @@ Pod::Spec.new do |spec|
 
   spec.source_files = ['Classes/**/*.swift', 'HashHelper/*']
 
-  spec.dependency 'Realm', '= 10.1.400'
-  spec.dependency 'RealmSwift', '= 10.1.400'
+  spec.dependency 'Realm', '= 10.1.401'
+  spec.dependency 'RealmSwift', '= 10.1.401'
 
 end
